@@ -3,11 +3,12 @@
 ## Installation
 
 Install Python dependancies from requirements.txt
-Set GENIUS_TOKEN in main.py to a Genius API key. See https://docs.genius.com/#/getting-started-h1.
 
 > `pip install -r requirements.txt`
 
-When instlling packages the order matters so you may have to also separately run `pip install python-pptx` and `pip install lyricsgenius`
+When installing packages the order matters, so you may have to also separately run `pip install python-pptx` and `pip install lyricsgenius`
+
+Set GENIUS_TOKEN in main.py to a Genius API key. See https://docs.genius.com/#/getting-started-h1.
 
 ## Usage
 
